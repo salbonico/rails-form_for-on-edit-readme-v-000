@@ -1,0 +1,4 @@
+# Logfile created on 2019-02-21 01:57:06 +0000 by logger.rb/54362
+I, [2019-02-21T01:57:06.897360 #1135]  INFO -- : 0:  rake (12.3.2) from /usr/local/rvm/gems/ruby-2.3.1/specifications/rake-12.3.2.gemspec
+I, [2019-02-21T01:57:06.898038 #1135]  INFO -- : 0:  concurrent-ruby (1.1.4) from /usr/local/rvm/gems/ruby-2.3.1/specifications/concurrent-ruby-1.1.4.gemspec
+I, [2019-02-21T01:57:06.898541 #1135]  INFO -- : 0:  i18n (0.9.5) from /usr/local/rvm/gems/ruby-2.3.1/specifications/i18n-0.9.5.gemspec
